@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 This is the tic tac toe project
 <br>
-Author - Tanmay Srivastava
+Author - Tanmay Srivastava 0808
